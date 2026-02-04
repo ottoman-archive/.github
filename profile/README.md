@@ -27,7 +27,7 @@ My key innovations in the field of medium/low resource languages (including Otto
 
 You can read about the various skill files under development in our [public wiki](https://github.com/ottoman-archive/.github/wiki).
 
-If you would like to try out one or more of these skill files, simply get in touch by email [colin.greenstreet@gmail.com]. I will give you a copy of the skill file, explain how it works, and will contextualise it within the two step visual capure + semantic processing workflow I have developed. The more I/we can test these skill files on real live handwritten (and printed) documents, the more robust we can make these skill files, and the more we can document their applicability by script type, document type and genre.
+If you would like to try out one or more of these skill files, simply get in touch by email [colin.greenstreet@gmail.com]. I will give you a copy of the skill file, explain how it works, and will contextualise it within the two step visual capture + semantic processing workflow I have developed. The more I/we can test these skill files on real live handwritten (and printed) documents, the more robust we can make these skill files, and the more we can document their applicability by script type, document type and genre.
 
 ## Respositories for collaboration with historians and linguists
 
