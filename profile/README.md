@@ -14,6 +14,29 @@ My most recent Substack article looks at the a number of the languages of the Ot
   <img src="https://github.com/ottoman-archive/.github/raw/main/images/Generative_Lives_Ottoman_Archive_Flier_04022026.png" width="800" alt="Opening the Ottoman Archive — Generative Lives, January 4th 2026">
 </p>
 
+I do not read Ottoman Turkish, nor any other Ottoman related language. But, I have thirteen years of history tech experience (NLP, NER, machine transcription) and was an early adopter of the precursor of Transkribus (CNN/RNN based machine transcription). I have been focussed for the last two years on the application of large language models to historical research, and have been a keynote speaker at the TNA and the IHR on LLM related topics.
+
+## Key innovations
+
+My key innovations in the field of medium/low resource languages (including Ottoman Turkish):
+
+1. Two stage processing of Ottoman Turkish printed and handwritten manuscripts: Visual Capture + Semantic Processing
+2. Development and use of markdown skill files for visual capture and semantic processing, tailored to script, document type, and genre
+
+## Skill files under development
+
+You can read about the various skill files under development in our [public wiki](https://github.com/ottoman-archive/.github/wiki).
+
+If you would like to try out one or more of these skill files, simply get in touch by email [colin.greenstreet@gmail.com]. I will give you a copy of the skill file, explain how it works, and will contextualise it within the two step visual capure + semantic processing workflow I have developed. The more I/we can test these skill files on real live handwritten (and printed) documents, the more robust we can make these skill files, and the more we can document their applicability by script type, document type and genre.
+
+## Respositories for collaboration with historians and linguists
+
+Respositories are useful mechanisms to share image files and to develop and share skill files.
+
+I am proposing to create individual repositories for each historian with whom I am collaborating.
+
+Preferred file formats are .png (for image files) and .md (markdown, for skills files.
+
 ## The ottoman-archive GitHub organisation
 
 The ottoman-archive GitHub organisation is a platform on which to develop with like minded historians the ideas contained in the Substack article  - both Ottoman history/language specialists and general historians are welcomed with open arms.
