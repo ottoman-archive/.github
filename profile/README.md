@@ -35,7 +35,7 @@ Respositories are useful mechanisms to share image files and to develop and shar
 
 I am proposing to create individual repositories for each historian with whom I am collaborating.
 
-Preferred file formats are .png (for image files) and .md (markdown, for skills files.
+Preferred file formats are .png (for image files) and .md (markdown, for skills files).
 
 ## The ottoman-archive GitHub organisation
 
