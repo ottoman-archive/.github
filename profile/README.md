@@ -1,8 +1,8 @@
 ## Who am I?
 
-My name is Colin Greenstreet. I am a research public historian, convenor of the ai + history collaboratory, and founder of MarineLives.
+My name is Colin Greenstreet. I am a research public historian, convenor of the [ai + history collaboratory](https://github.com/Addaci/ai-and-history-collaboratory/), and founder of [MarineLives](http://www.marinelives.org/wiki/MarineLives).
 
-I write a Substack called Generative Lives, and have published a series of articles about the application of large language models to machine transcription of printed documents and manuscripts.
+I write a Substack called [Generative Lives](https://generativelives.substack.com/), and have published a series of articles about the application of large language models to machine transcription of printed documents and manuscripts.
 
 ## Opening the Ottoman Archive
 
