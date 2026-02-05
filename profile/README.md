@@ -6,15 +6,15 @@ I write a Substack called [Generative Lives](https://generativelives.substack.co
 
 ## Opening the Ottoman Archive
 
-My most recent Substack article looks at the a number of the languages of the Ottoman Empire - Ottoman Turkish, Albanian, Bulgarian, Greek, and Armenian - as well as modern Turkish.
+My most recent Substack article looks at the number of the languages of the Ottoman Empire - Ottoman Turkish, Albanian, Bulgarian, Greek, and Armenian - as well as modern Turkish.
 
-`Greenstreet, Colin, 'Opening the Ottoman Archive: You want to do granular research on the Ottoman Empire and its successor states, but don't read Ottoman Turkish. Do you throw up you hands or look for a new set of powerful tools?', Generative Lives, January 4th 2026.` Click [here](https://generativelives.substack.com/p/opening-the-ottoman-archive)
+`Greenstreet, Colin, 'Opening the Ottoman Archive: You want to do granular research on the Ottoman Empire and its successor states, but don't read Ottoman Turkish. Do you throw up your hands or look for a new set of powerful tools?', Generative Lives, January 4th 2026.` Click [here](https://generativelives.substack.com/p/opening-the-ottoman-archive)
 
 <p align="center">
   <img src="https://github.com/ottoman-archive/.github/raw/main/images/Generative_Lives_Ottoman_Archive_Flier_04022026.png" width="800" alt="Opening the Ottoman Archive — Generative Lives, January 4th 2026">
 </p>
 
-I do not read Ottoman Turkish, nor any other Ottoman related language. But, I have thirteen years of history tech experience (NLP, NER, machine transcription) and was an early adopter of the precursor of Transkribus (CNN/RNN based machine transcription). I have been focussed for the last two years on the application of large language models to historical research, and have been a keynote speaker at the TNA and the IHR on LLM related topics.
+I do not read Ottoman Turkish, nor any other Ottoman-related language. But, I have thirteen years of history tech experience (NLP, NER, machine transcription) and was an early adopter of the precursor of Transkribus (CNN/RNN based machine transcription). I have been focussed for the last two years on the application of large language models to historical research, and have been a keynote speaker at the TNA and the IHR on LLM related topics.
 
 ## Key innovations
 
@@ -31,15 +31,15 @@ If you would like to try out one or more of these skill files, simply get in tou
 
 ## Respositories for collaboration with historians and linguists
 
-Respositories are useful mechanisms to share image files and to develop and share skill files.
+A useful mechanisms to share image files and to develop and share skill files.
 
 I am proposing to create individual repositories for each historian with whom I am collaborating.
 
-Preferred file formats are .png (for image files) and .md (markdown, for skills files).
+Preferred file formats are .png (for image files) and .md (markdown, for skill files).
 
 ## The ottoman-archive GitHub organisation
 
-The ottoman-archive GitHub organisation is a platform on which to develop with like minded historians the ideas contained in the Substack article  - both Ottoman history/language specialists and general historians are welcomed with open arms.
+The ottoman-archive GitHub organisation is a platform on which to develop with like-minded historians the ideas contained in the Substack article  - both Ottoman history/language specialists and general historians are welcomed with open arms.
 
 ## Contact me to discuss collaboration
 
