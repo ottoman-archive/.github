@@ -14,7 +14,7 @@ My most recent Substack article looks at the number of the languages of the Otto
   <img src="https://github.com/ottoman-archive/.github/raw/main/images/Generative_Lives_Ottoman_Archive_Flier_04022026.png" width="800" alt="Opening the Ottoman Archive — Generative Lives, January 4th 2026">
 </p>
 
-I do not read Ottoman Turkish, nor any other Ottoman-related language. But, I have thirteen years of history tech experience (NLP, NER, machine transcription) and was an early adopter of the precursor of Transkribus (CNN/RNN based machine transcription). I have been focussed for the last two years on the application of large language models to historical research, and have been a keynote speaker at the TNA and the IHR on LLM related topics.
+I do not read Ottoman Turkish, nor any other Ottoman-related language, but do read English, German, French, and a little Spanish. I have thirteen years of history tech experience (NLP, NER, machine transcription) and was an early adopter of the precursor of Transkribus (CNN/RNN based machine transcription). I have been focussed for the last two years on the application of large language models to historical research, and have been a keynote speaker at the TNA and the IHR on LLM related topics.
 
 ## Key innovations
 
@@ -27,19 +27,19 @@ My key innovations in the field of medium/low resource languages (including Otto
 
 You can read about the various skill files under development in our [public wiki](https://github.com/ottoman-archive/.github/wiki).
 
-If you would like to try out one or more of these skill files, simply get in touch by email [colin.greenstreet@gmail.com]. I will give you a copy of the skill file, explain how it works, and will contextualise it within the two step visual capture + semantic processing workflow I have developed. The more I/we can test these skill files on real live handwritten (and printed) documents, the more robust we can make these skill files, and the more we can document their applicability by script type, document type and genre.
+The concept of "skill files" was developed by Anthropic, and has been rapidly adopted by other large language model providers such as Google (Gemini) and OpenAI (ChatGPT). Anthropic provides a [formal definition of an Anthropic skill file format](https://agentskills.io/specification) and also a [public folder of Anthropic skill files](https://github.com/anthropics/skills/tree/main), which you may wish to explore.
 
-## Respositories for collaboration with historians and linguists
+Our plan is to develop Anthropic compliant skill files to support the visual capture and semantic processing of Ottoman Turkish. At a later stage we wish to extend this to Albanian, Bulgarian, Greek, and Armenian.
 
-A useful mechanisms to share image files and to develop and share skill files.
-
-I am proposing to create individual repositories for each historian with whom I am collaborating.
-
-Preferred file formats are .png (for image files) and .md (markdown, for skill files).
+If you would like to try out one or more of these skill files, simply get in touch by email [colin.greenstreet@gmail.com]. I will give you a copy of the skill file which interest you, explain how it works, and will contextualise it within the two step visual capture + semantic processing workflow I have developed. I will also support you as you test the file out on your own Ottoman Turkish documents. The more I/we can test these skill files on real live handwritten (and printed) documents, the more robust we can make these skill files, and the more we can document their applicability by script type, document type and genre. Everything we develop in terms of skill files, together with related documentation, will be made available to the Commons.
 
 ## The ottoman-archive GitHub organisation
 
 The ottoman-archive GitHub organisation is a platform on which to develop with like-minded historians the ideas contained in the Substack article  - both Ottoman history/language specialists and general historians are welcomed with open arms.
+
+Each of our collaborating historians has access to a private GitHub repository hosted by our ottoman-archive GitHub organisation for their specific research interests and password protected. 
+
+Preferred file formats are .png (for image files) and .md (markdown, for skill files).
 
 ## Contact me to discuss collaboration
 
