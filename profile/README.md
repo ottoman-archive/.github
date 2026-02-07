@@ -33,14 +33,29 @@ Our plan is to develop Anthropic compliant skill files to support the visual cap
 
 If you would like to try out one or more of these skill files, simply get in touch by email [colin.greenstreet@gmail.com]. I will give you a copy of the skill file which interest you, explain how it works, and will contextualise it within the two step visual capture + semantic processing workflow I have developed. I will also support you as you test the file out on your own Ottoman Turkish documents. The more I/we can test these skill files on real live handwritten (and printed) documents, the more robust we can make these skill files, and the more we can document their applicability by script type, document type and genre. Everything we develop in terms of skill files, together with related documentation, will be made available to the Commons.
 
+## Skill Files Demo repository
+
+You can explore three of our skill files in the [skill-files-demo public repository](https://github.com/ottoman-archive/skill-files-demo/tree/main)
+
+<p align="center">
+  <img src="https://github.com/ottoman-archive/.github/raw/main/images/skill-files-demo-repository-image_06022026.png" width="800" alt="Opening the Ottoman Archive — Generative Lives, January 4th 2026">
+</p>
+
 ## The ottoman-archive GitHub organisation
 
-The ottoman-archive GitHub organisation is a platform on which to develop with like-minded historians the ideas contained in the Substack article  - both Ottoman history/language specialists and general historians are welcomed with open arms.
+The ottoman-archive GitHub organisation is a platform on which to develop with like-minded historians the ideas contained in the [Opening the Ottoman Archive Substack article](https://generativelives.substack.com/p/opening-the-ottoman-archive) - both Ottoman history/language specialists and general historians are welcomed with open arms.
 
-Each of our collaborating historians has access to a private GitHub repository hosted by our ottoman-archive GitHub organisation for their specific research interests and password protected. 
+Each of our collaborating historians has access to a private GitHub repository hosted by our ottoman-archive GitHub organisation for their specific research interests and is password protected. 
 
 Preferred file formats are .png (for image files) and .md (markdown, for skill files).
+
+You can browse this mocked up public example of a private GitHub repository [colin-yournamehere-htr](https://github.com/ottoman-archive/colin-yournamehere-htr/tree/main), which contains images, skill files, visual output, and semantic processing output for the masthead, and RH and LH columns of issue one of the letterpress printed Ottoman Turkish Ottoman Government Gazette Takvim-i Vekayi.
+
+<p align="center">
+  <img src="https://github.com/ottoman-archive/.github/raw/main/images/colin-yournamehere-htr-screenshot-07022026.png" width="800" alt="Opening the Ottoman Archive — Generative Lives, January 4th 2026">
+</p>
 
 ## Contact me to discuss collaboration
 
 Contact me if you would like to help develop and validate Ottoman Turkish [skill files](https://github.com/ottoman-archive/.github/wiki) for use in your own research work.
+
