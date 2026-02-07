@@ -23,6 +23,10 @@ My key innovations in the field of medium/low resource languages (including Otto
 1. Two stage processing of Ottoman Turkish printed and handwritten manuscripts: Visual Capture + Semantic Processing
 2. Development and use of markdown skill files for visual capture and semantic processing, tailored to script, document type, and genre
 
+<p align="center">
+  <img src="https://github.com/ottoman-archive/.github/raw/main/images/2-step-process-07022026.png" width="800" alt="Opening the Ottoman Archive — Generative Lives, January 4th 2026">
+</p>
+
 ## Skill files under development
 
 You can read about the various skill files under development in our [public wiki](https://github.com/ottoman-archive/.github/wiki).
@@ -58,4 +62,3 @@ You can browse this mocked up public example of a private GitHub repository [col
 ## Contact me to discuss collaboration
 
 Contact me if you would like to help develop and validate Ottoman Turkish [skill files](https://github.com/ottoman-archive/.github/wiki) for use in your own research work.
-
