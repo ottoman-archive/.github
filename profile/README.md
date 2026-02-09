@@ -1,3 +1,13 @@
+<!-- Wiki banner -->
+<p align="left">
+  <a href="https://github.com/ottoman-archive/.github/wiki">
+    <img
+      src="https://img.shields.io/badge/📖_Explore_the_ottoman--archive_Wiki-Methodology_·_Document_type_·_Genre_·_Script_·_Two_stage_pipeline-c9a84c?style=flat-square&amp;labelColor=1a1410"
+      alt="Explore the ottoman-archive Wiki"
+    />
+  </a>
+</p>
+
 ## Who am I?
 
 My name is Colin Greenstreet. I am a research public historian, convenor of the [ai + history collaboratory](https://github.com/Addaci/ai-and-history-collaboratory/), and founder of [MarineLives](http://www.marinelives.org/wiki/MarineLives).
@@ -62,3 +72,13 @@ You can browse this mocked up public example of a private GitHub repository [col
 ## Contact me to discuss collaboration
 
 Contact me if you would like to help develop and validate Ottoman Turkish [skill files](https://github.com/ottoman-archive/.github/wiki) for use in your own research work.
+
+<!-- Wiki banner (footer) -->
+<p align="center">
+  <a href="https://github.com/ottoman-archive/.github/wiki">
+    <img
+      src="https://img.shields.io/badge/📖_Explore_the_ottoman--archive_Wiki-Methodology_·_Document_type_·_Genre_·_Script_·_Two_stage_pipeline-c9a84c?style=flat-square&amp;labelColor=1a1410"
+      alt="Explore the ottoman-archive Wiki"
+    />
+  </a>
+</p>
