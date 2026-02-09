@@ -8,6 +8,24 @@
   </a>
 </p>
 
+<details>
+<summary><strong>Metadata</strong></summary>
+
+Author: Colin Greenstreet | Landing page read.me created Wednesday, February 7th 2026
+
+Version: v1.2
+
+Version history:
+- v1.0 (4 February 2026): Initial draft
+- v1.1 (8 February 2026): Significantly expanded read.me; added collapsing metadata feature; added contact details; removed demo skill files section; made minor edits to text
+- v1.2 (9 February 2026): Added wiki call out button
+
+Validation: This respository structure has been validated by Colin Greenstreet
+
+</details>
+
+---
+
 ## Who am I?
 
 My name is Colin Greenstreet. I am a research public historian, convenor of the [ai + history collaboratory](https://github.com/Addaci/ai-and-history-collaboratory/), and founder of [MarineLives](http://www.marinelives.org/wiki/MarineLives).
@@ -72,6 +90,10 @@ You can browse this mocked up public example of a private GitHub repository [col
 ## Contact me to discuss collaboration
 
 Contact me if you would like to help develop and validate Ottoman Turkish [skill files](https://github.com/ottoman-archive/.github/wiki) for use in your own research work.
+
+---
+
+*Last updated: 9 February 2026 · v1.2*
 
 <!-- Wiki banner (footer) -->
 <p align="center">
