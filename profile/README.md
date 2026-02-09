@@ -89,7 +89,7 @@ You can browse this mocked up public example of a private GitHub repository [col
 
 ## Contact me to discuss collaboration
 
-Contact me if you would like to help develop and validate Ottoman Turkish [skill files](https://github.com/ottoman-archive/.github/wiki) for use in your own research work.
+Contact colin.greenstreet@marinelives.org if you would like to help develop and validate Ottoman Turkish [skill files](https://github.com/ottoman-archive/.github/wiki) for use in your own research work.
 
 ---
 
