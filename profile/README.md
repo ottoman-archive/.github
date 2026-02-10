@@ -13,12 +13,13 @@
 
 Author: Colin Greenstreet | Landing page read.me created Wednesday, February 7th 2026
 
-Version: v1.2
+Version: v1.3
 
 Version history:
 - v1.0 (4 February 2026): Initial draft
 - v1.1 (8 February 2026): Significantly expanded read.me; added collapsing metadata feature; added contact details; removed demo skill files section; made minor edits to text
 - v1.2 (9 February 2026): Added wiki call out button
+- v1.3 (10 February 2026): MChanged contact details; minor edits to text
 
 Validation: This respository structure has been validated by Colin Greenstreet
 
@@ -31,6 +32,8 @@ Validation: This respository structure has been validated by Colin Greenstreet
 My name is Colin Greenstreet. I am a research public historian, convenor of the [ai + history collaboratory](https://github.com/Addaci/ai-and-history-collaboratory/), and founder of [MarineLives](http://www.marinelives.org/wiki/MarineLives).
 
 I write a Substack called [Generative Lives](https://generativelives.substack.com/), and have published a series of articles about the application of large language models to machine transcription of printed documents and manuscripts.
+
+I am working collaboratively with a small group of Ottoman historians.
 
 ## Opening the Ottoman Archive
 
@@ -57,13 +60,13 @@ My key innovations in the field of medium/low resource languages (including Otto
 
 ## Skill files under development
 
-You can read about the various skill files under development in our [public wiki](https://github.com/ottoman-archive/.github/wiki).
+You can read about the various skill files we have under development in our [public wiki](https://github.com/ottoman-archive/.github/wiki).
 
 The concept of "skill files" was developed by Anthropic, and has been rapidly adopted by other large language model providers such as Google (Gemini) and OpenAI (ChatGPT). Anthropic provides a [formal definition of an Anthropic skill file format](https://agentskills.io/specification) and also a [public folder of Anthropic skill files](https://github.com/anthropics/skills/tree/main), which you may wish to explore.
 
 Our plan is to develop Anthropic compliant skill files to support the visual capture and semantic processing of Ottoman Turkish. At a later stage we wish to extend this to Albanian, Bulgarian, Greek, and Armenian.
 
-If you would like to try out one or more of these skill files, simply get in touch by email [colin.greenstreet@gmail.com]. I will give you a copy of the skill file which interest you, explain how it works, and will contextualise it within the two step visual capture + semantic processing workflow I have developed. I will also support you as you test the file out on your own Ottoman Turkish documents. The more I/we can test these skill files on real live handwritten (and printed) documents, the more robust we can make these skill files, and the more we can document their applicability by script type, document type and genre. Everything we develop in terms of skill files, together with related documentation, will be made available to the Commons.
+If you would like to try out one or more of these skill files, simply get in touch by email [colin.greenstreet@marinelives.org]. I will give you a copy of the skill file which interest you, explain how it works, and will contextualise it within the two step visual capture + semantic processing workflow I have developed. I will also support you as you test the file out on your own Ottoman Turkish documents. The more I/we can test these skill files on real live handwritten (and printed) documents, the more robust we can make these skill files, and the more we can document their applicability by script type, document type and genre. Everything we develop in terms of skill files, together with related documentation, will be made available to the Commons.
 
 ## Skill Files Demo repository
 
@@ -89,11 +92,11 @@ You can browse this mocked up public example of a private GitHub repository [col
 
 ## Contact me to discuss collaboration
 
-Contact colin.greenstreet@marinelives.org if you would like to help develop and validate Ottoman Turkish [skill files](https://github.com/ottoman-archive/.github/wiki) for use in your own research work.
+Contact colin.greenstreet@marinelives.org if you would like to discuss collaboration.
 
 ---
 
-*Last updated: 9 February 2026 · v1.2*
+*Last updated: 9 February 2026 · v1.3*
 
 <!-- Wiki banner (footer) -->
 <p align="center">
@@ -104,4 +107,3 @@ Contact colin.greenstreet@marinelives.org if you would like to help develop and 
     />
   </a>
 </p>
-
