@@ -106,4 +106,4 @@ Contact colin.greenstreet@marinelives.org if you would like to discuss collabora
       alt="Explore the ottoman-archive Wiki"
     />
   </a>
-</p>
+</p
